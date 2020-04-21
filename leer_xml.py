@@ -53,4 +53,3 @@ print('Monto Neto:      $'+montoIva)
 print('Monto Neto:      $'+montoTotal)
 
 
-#print(r_emisor)
