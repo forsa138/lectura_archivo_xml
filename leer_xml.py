@@ -49,7 +49,7 @@ montoTotal = doc.getElementsByTagName("MntTotal")[0].firstChild.nodeValue
 
 print('')
 print('Monto Neto:      $'+montoNeto)
-print('Monto Neto:      $'+montoIva)
-print('Monto Neto:      $'+montoTotal)
+print('Monto IVA:      $'+montoIva)
+print('Monto Total:      $'+montoTotal)
 
 
